@@ -1,0 +1,5 @@
+.navegacion li{
+    display: inline;
+    width: 100px;
+    padding: 9px;
+    border: solid rgb(247, 21, 21) 1px;
